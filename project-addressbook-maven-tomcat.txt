@@ -7,7 +7,7 @@ Revision of project deployment using maven and tomcat
    apt update -y
    apt install maven -y
    mvn --version
-   git clone https://github.com/akshu20791/addressbook-cicd-project
+   git clone https://github.com/santu-365/addressbook-cicd-project
    cd addressbook-cicd-project
    (check https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) 
    mvn compile
